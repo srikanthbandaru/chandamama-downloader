@@ -3,9 +3,12 @@ Chandamama was a classic Indian monthly magazine for children, famous for its il
 
 The stories embedded in the never-ending saga of King Vikramāditya and Vetala (Vampire), an adaptation of an ancient Sanskrit work Baital Pachisi, brought wide repute to this magazine and were also featured in popular TV serials. In each issue, the Vetala, to prevent him fulfill a vow, poses a typical catch-22 question to king Vikramāditya, involving a moral dilemma. The wise king answers correctly and is thus defeated by the Vetala, forcing the king to do it all over again and again.
 
-![Logo](https://raw.githubusercontent.com/srikanthbandaru/chandamama-downloader/master/logo.jpg)
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/srikanthbandaru/chandamama-downloader/master/logo.jpg" alt="logo">
+</p>
 
-This project is a small script to download all the Chandamama magazines.
+<p align="center">This project is a small script to download all the Chandamama magazines.</p>
+</div>
 
 ## How to use this tool
 ```
