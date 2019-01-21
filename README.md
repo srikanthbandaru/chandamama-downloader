@@ -18,7 +18,9 @@ npm install
 
 npm start
 
-Navigate to http://localhost:3000/
+Navigate to http://localhost:3000/ 
+
+Now, go have your lunch and come back. It takes some time to download all 725 magazines. 😊
 ```
 
 ## Road map
